@@ -67,3 +67,19 @@ form button {
 form button:hover {
     background-color: #45a049;
 }
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1; /* Optional: Adds a light background to the footer */
+    font-size: 16px; /* Adjusts the font size */
+    margin-top: 20px; /* Adds spacing above the footer */
+}
+
+footer a {
+    text-decoration: none;
+    color: #000; /* Adjust the text color */
+}
+
+footer a:hover {
+    color: #4CAF50; /* Optional: Changes color when hovering */
+}
