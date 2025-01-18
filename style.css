@@ -135,12 +135,12 @@ article h3 {
 }
 /* Change color for normal links */
 a {
-    color: #3498db; /* Blue color (can be changed to any color you prefer) */
+    color: #76a4c4; /* Blue color (can be changed to any color you prefer) */
     text-decoration: none; /* Removes the underline from links */
 }
 
 /* Change color for links when hovered */
 a:hover {
-    color: #2ecc71; /* Green color when hovered */
+    color: #6db189; /* Green color when hovered */
     text-decoration: underline; /* Optional: Adds underline when hovered */
 }
