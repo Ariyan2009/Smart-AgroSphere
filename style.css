@@ -109,7 +109,7 @@ footer a {
 img {
     display: block;
     margin: 0 auto; /* Centers the image horizontally */
-    max-width: 80%; /* Ensures the image scales according to the page width */
+    max-width: 50%; /* Ensures the image scales according to the page width */
     max-height: 50vh; /* Limits the height of the image to 50% of the viewport height */
     border: 2px solid var(--primary-color); /* Optional: Adds a border around the image */
     border-radius: 10px; /* Optional: Rounds the corners of the image */
