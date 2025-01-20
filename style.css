@@ -110,7 +110,7 @@ img {
     display: block;
     margin: 0 auto; /* Centers the image horizontally */
     max-width: 50%; /* Ensures the image scales according to the page width */
-    max-height: 20vh; /* Limits the height of the image to 50% of the viewport height */
+    max-height: 30vh; /* Limits the height of the image to 50% of the viewport height */
     border: 2px solid var(--primary-color); /* Optional: Adds a border around the image */
     border-radius: 10px; /* Optional: Rounds the corners of the image */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a subtle shadow effect */
