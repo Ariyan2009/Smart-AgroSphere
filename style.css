@@ -47,6 +47,7 @@ nav ul li {
 
 nav ul li a {
     color: #fff;
+    background-color: #befcf0;
     text-decoration: none;
     font-weight: bold;
     padding: 10px 20px;
@@ -109,8 +110,8 @@ footer a {
 img {
     display: block;
     margin: 0 auto; /* Centers the image horizontally */
-    max-width: 70%; /* Ensures the image scales according to the page width */
-    max-height: 40vh; /* Limits the height of the image to 50% of the viewport height */
+    max-width: 80%; /* Ensures the image scales according to the page width */
+    max-height: 50vh; /* Limits the height of the image to 50% of the viewport height */
     border: 2px solid var(--primary-color); /* Optional: Adds a border around the image */
     border-radius: 10px; /* Optional: Rounds the corners of the image */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a subtle shadow effect */
