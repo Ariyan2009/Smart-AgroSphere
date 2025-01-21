@@ -23,7 +23,7 @@ document.getElementById('reviewForm').addEventListener('submit', async (e) => {
 
     // Send data to Google Apps Script
     try {
-        const response = await fetch('YOUR_GOOGLE_APPS_SCRIPT_URL', {
+        const response = await fetch('https://script.google.com/macros/s/AKfycbwH3GHzeg40cgadBRV0qW03ZZUQ_R8NZgRWHq1GHsA2gaOsNihRn6S8nI7mwtGuiHYU/exec', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data),
